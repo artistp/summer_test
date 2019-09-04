@@ -1,0 +1,10 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 _mysql_num_fields@4，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_error@4，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_init@4，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_real_connect@32，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_real_query@12，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_store_result@4，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_free_result@4，该符号在函数 "public: __thiscall dbconnect::~dbconnect(void)" (??1dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_fetch_row@4，该符号在函数 "public: __thiscall dbconnect::dbconnect(void)" (??0dbconnect@@QAE@XZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 _mysql_close@4，该符号在函数 "public: __thiscall dbconnect::~dbconnect(void)" (??1dbconnect@@QAE@XZ) 中被引用
+H:\VCworkspace\Cluster\Debug\Cluster.exe : fatal error LNK1120: 9 个无法解析的外部命令

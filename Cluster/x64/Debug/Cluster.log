@@ -1,0 +1,123 @@
+﻿  main.cpp
+h:\vcworkspace\cluster\cluster\iris.h(28): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\iris.h(30): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\iris.h(32): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\iris.h(34): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\iris.h(35): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\iris.h(95): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(107): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(107): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(109): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(111): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(113): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(115): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(117): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(119): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(121): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(123): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(149): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\iris.h(175): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(177): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\iris.h(270): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+h:\vcworkspace\cluster\cluster\iris.h(272): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+h:\vcworkspace\cluster\cluster\wine.h(47): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(49): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(51): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(53): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(55): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(57): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(59): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(61): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(63): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(65): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(67): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(69): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(71): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(157): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(169): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(169): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(171): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(173): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(175): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(177): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(179): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(181): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(183): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(185): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(187): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(189): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(191): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(193): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(195): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(197): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(199): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(201): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(203): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(205): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(207): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(209): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(211): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(213): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(215): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(217): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(219): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(221): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(247): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\wine.h(273): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(275): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\wine.h(353): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+h:\vcworkspace\cluster\cluster\wine.h(355): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+h:\vcworkspace\cluster\cluster\ecoli.h(36): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(38): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(40): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(42): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(44): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(46): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(48): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(116): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(128): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(128): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(130): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(132): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(134): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(136): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(138): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(140): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(142): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(144): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(146): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(148): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(150): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(152): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(154): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(156): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(182): warning C4305: “初始化”: 从“int”到“float”截断
+h:\vcworkspace\cluster\cluster\ecoli.h(209): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(211): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+h:\vcworkspace\cluster\cluster\ecoli.h(289): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+h:\vcworkspace\cluster\cluster\ecoli.h(291): warning C4244: “参数”: 从“double”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=float
+          ]
+  Cluster.vcxproj -> H:\VCworkspace\Cluster\x64\Debug\Cluster.exe
